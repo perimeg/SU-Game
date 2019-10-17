@@ -1,0 +1,15 @@
+
+FUNCTIONS TO WRITE
+
+playSound
+playMusic
+stopMusic
+
+scanDialogue
+	play sound
+	play music
+	stop music
+	end scene
+
+flip character 2 horizontally
+
